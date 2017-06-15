@@ -1,16 +1,17 @@
 {
-  "name": "revalidator",
+  "name": "@10pearls/revalidator",
   "version": "0.3.1",
   "description": "A cross-browser / node.js validator powered by JSON Schema",
   "license": "Apache-2.0",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
   "maintainers": [
     "cloudhead <alexis@cloudhead.io>",
-    "indutny <fedor.indutny@gmail.com>"
+    "indutny <fedor.indutny@gmail.com>",
+		"alyyousuf7 <aly.yousuf7@gmail.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/flatiron/revalidator.git"
+    "url": "http://github.com/10pearls/revalidator.git"
   },
   "devDependencies": {
     "vows": "0.8.x"
@@ -23,4 +24,3 @@
     "node": ">= 0.8.0"
   }
 }
-
